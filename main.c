@@ -4,7 +4,7 @@
 #include <stdbool.h>
 #include <ctype.h>
 
-#define MAX 100                                     //Estrutura De Dados , Implementação da Pilha. Invertendo Strings!
+#define MAX 100
 
 struct Frase {
     char leitor[MAX];
